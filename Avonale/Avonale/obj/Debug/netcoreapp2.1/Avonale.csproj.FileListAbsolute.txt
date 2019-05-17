@@ -1,0 +1,11 @@
+D:\Ufs\Programação\C#\Avonale\Avonale\obj\Debug\netcoreapp2.1\Avonale.csprojAssemblyReference.cache
+D:\Ufs\Programação\C#\Avonale\Avonale\obj\Debug\netcoreapp2.1\Avonale.csproj.CoreCompileInputs.cache
+D:\Ufs\Programação\C#\Avonale\Avonale\obj\Debug\netcoreapp2.1\Avonale.AssemblyInfoInputs.cache
+D:\Ufs\Programação\C#\Avonale\Avonale\obj\Debug\netcoreapp2.1\Avonale.AssemblyInfo.cs
+D:\Ufs\Programação\C#\Avonale\Avonale\bin\Debug\netcoreapp2.1\Avonale.deps.json
+D:\Ufs\Programação\C#\Avonale\Avonale\bin\Debug\netcoreapp2.1\Avonale.runtimeconfig.json
+D:\Ufs\Programação\C#\Avonale\Avonale\bin\Debug\netcoreapp2.1\Avonale.runtimeconfig.dev.json
+D:\Ufs\Programação\C#\Avonale\Avonale\bin\Debug\netcoreapp2.1\Avonale.dll
+D:\Ufs\Programação\C#\Avonale\Avonale\bin\Debug\netcoreapp2.1\Avonale.pdb
+D:\Ufs\Programação\C#\Avonale\Avonale\obj\Debug\netcoreapp2.1\Avonale.dll
+D:\Ufs\Programação\C#\Avonale\Avonale\obj\Debug\netcoreapp2.1\Avonale.pdb
